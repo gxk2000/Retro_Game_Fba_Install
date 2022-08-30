@@ -3,7 +3,7 @@
 # This project is a install for fba emulator in the gameshell
 
 
-### $\color{red}{Usage&nbsp; introduction：}$
+### $\color{red}{Usage&nbsp;introduction：}$
 
 ### 1.Get gameshell root
 - `su`
