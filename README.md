@@ -1,11 +1,10 @@
 # Retro_Game_Fba_Install
-#
 # This project is a install for fba emulator in the gameshell
 
 
 ### $\color{red}{Usage&ensp;introduction：}$
 
-### 1.Get gameshell root
+### 1.Get gameshell root<br><br>
 - `su`
 - `cpi`<br><br>
 
