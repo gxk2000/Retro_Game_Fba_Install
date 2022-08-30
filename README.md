@@ -16,4 +16,4 @@
 - Upload game roms in `/home/cpi/games/FBA`<br><br>
 ### 5.uninstall fba emulator
 - If you want, you can uninstall fba emulator
-- Enter `python /home/cpi/Retro_Game_Fba_Install/install.py` to uninstall the fba emulator
+- Enter `python /home/cpi/Retro_Game_Fba_Install/uninstall.py` to uninstall the fba emulator
