@@ -12,7 +12,7 @@
 - `git clone https://github.com/gxk2000/Retro_Game_Fba_Install.git`<br><br>
 ### 3.Install packect
 - `python /home/cpi/Retro_Game_Fba_Install/install.py`<br><br>
-### 4.Put game rom in the roms`s file
+### 4.Put game rom in the roms's file
 - Upload game roms in `/home/cpi/games/FBA`<br><br>
 ### 5.uninstall fba emulator
 - If you want, you can uninstall fba emulator
