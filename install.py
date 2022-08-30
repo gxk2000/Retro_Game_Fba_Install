@@ -34,6 +34,6 @@ copy(old,new)
 if os.path.exists("/home/cpi/launcher/skin/default/Menu/GameShell/20_Retro Games/FBA.png"):
     if os.path.exists("/home/cpi/apps/emulators/fbalpha2012_libretro.so"):
         if os.path.exists("/home/cpi/apps/Menu/20_Retro Games/11_FBA"):
-            print("----- FBA模拟器安装完成！ -----")
+            print("----- Fba模拟器安装完成！ -----")
 else:
-    print("----- FBA模拟器安装失败！ -----")
+    print("----- Fba模拟器安装失败！ -----")
