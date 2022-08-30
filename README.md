@@ -4,7 +4,7 @@
 
 ### $\color{red}{Usage&ensp;introduction：}$
 
-### 1.Get gameshell root<br><br>
+### 1.Get gameshell root
 - `su`
 - `cpi`<br><br>
 
