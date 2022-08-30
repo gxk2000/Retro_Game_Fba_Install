@@ -1,5 +1,5 @@
 # Retro_Game_Fba_Install
-# This project is a install for fba emulator in the gameshell
+# This is a python module for installing the fba emulator on the gameshell
 
 
 ### $\color{red}{Usage&ensp;introduction：}$
