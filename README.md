@@ -3,20 +3,20 @@
 # This project is a install for fba emulator in the gameshell
 
 
-### Usage introduction：
+### $\color{red}{Usage introduction：}$
 
-### 1.get gameshell root
+### 1.Get gameshell root
 - `su`
 - `cpi`
 
 
-### 2.get install packect
+### 2.Get install packect
 - `git clone https://github.com/gxk2000/Retro_Game_Fba_Install.git`
 
 
-### 3.install packect
+### 3.Install packect
 - `python /home/cpi/Retro_Game_Fba_Install/install.py`
 
 
-### 4.put game rom in the roms`s file
+### 4.Put game rom in the roms`s file
 - upload game roms in `/home/cpi/games/FBA`
