@@ -1,4 +1,6 @@
 # -*- encoding: utf-8 -*-
+#pay attention this project was base in python2
+
 import os
 import shutil
 
