@@ -2,6 +2,9 @@
 import os
 import shutil
 
+# 获取root
+os.system("su")
+
 # 清除上次安装
 if os.path.exists("/home/cpi/launcher/skin/default/Menu/GameShell/20_Retro Games/FBA.png"):
     os.system("/home/cpi/launcher/skin/default/Menu/GameShell/20_Retro Games/FBA.png")
