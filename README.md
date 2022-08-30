@@ -13,4 +13,7 @@
 ### 3.Install packect
 - `python /home/cpi/Retro_Game_Fba_Install/install.py`<br><br>
 ### 4.Put game rom in the roms`s file
-- upload game roms in `/home/cpi/games/FBA`
+- upload game roms in `/home/cpi/games/FBA`<br><br>
+### 5.uninstall fba emulator
+- if you want, you can uninstall fba emulator
+- enter `python /home/cpi/Retro_Game_Fba_Install/install.py`
